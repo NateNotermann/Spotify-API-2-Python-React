@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "flask-server/.venv/bin/python3"
+}
